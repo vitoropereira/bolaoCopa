@@ -1,0 +1,388 @@
+{
+ "Planilha1":[
+  {
+   "date": "2022-11-21",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Senegal",
+   "Column8": "x",
+   "secondTeamCountryCode": "Holanda",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-21",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Qatar",
+   "Column8": "x",
+   "secondTeamCountryCode": "Equador",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-11-25",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Qatar",
+   "Column8": "x",
+   "secondTeamCountryCode": "Senegal",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-25",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Holanda",
+   "Column8": "x",
+   "secondTeamCountryCode": "Equador",
+   "Column12": "INTER. KHALIFA"
+  },
+  {
+   "date": "2022-11-29",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Holanda",
+   "Column8": "x",
+   "secondTeamCountryCode": "Qatar",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-11-29",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Equador",
+   "Column8": "x",
+   "secondTeamCountryCode": "Senegal",
+   "Column12": "INTER. KHALIFA"
+  },
+  {
+   "date": "2022-11-21",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Inglaterra",
+   "Column8": "x",
+   "secondTeamCountryCode": "Iran",
+   "Column12": "INTER. KHALIFA"
+  },
+  {
+   "date": "2022-11-21",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Estados Unidos",
+   "Column8": "x",
+   "secondTeamCountryCode": "País de Gales",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-11-25",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "País de Gales",
+   "Column8": "x",
+   "secondTeamCountryCode": "Iran",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-11-25",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Inglaterra",
+   "Column8": "x",
+   "secondTeamCountryCode": "Estados Unidos",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-11-29",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "País de Gales",
+   "Column8": "x",
+   "secondTeamCountryCode": "Inglaterra",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-11-29",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Iran",
+   "Column8": "x",
+   "secondTeamCountryCode": "Estados Unidos",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-22",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Argentina",
+   "Column8": "x",
+   "secondTeamCountryCode": "Arábia Saudita",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-22",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "México",
+   "Column8": "x",
+   "secondTeamCountryCode": "Polônia",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-26",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Polônia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Arábia Saudita",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-26",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Argentina",
+   "Column8": "x",
+   "secondTeamCountryCode": "México",
+   "Column12": "NAC. DE LUSAIL"
+  },
+  {
+   "date": "2022-11-30",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Polônia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Argentina",
+   "Column12": "PORTO DE DOHA"
+  },
+  {
+   "date": "2022-11-30",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Arábia Saudita",
+   "Column8": "x",
+   "secondTeamCountryCode": "México",
+   "Column12": "NAC. DE LUSAIL"
+  },
+  {
+   "date": "2022-11-22",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Dinamarca",
+   "Column8": "x",
+   "secondTeamCountryCode": "Tunísia",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-22",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "França",
+   "Column8": "x",
+   "secondTeamCountryCode": "Austrália",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-26",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Tunísia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Austrália",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-26",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "França",
+   "Column8": "x",
+   "secondTeamCountryCode": "Dinamarca",
+   "Column12": "PORTO DE DOHA"
+  },
+  {
+   "date": "2022-11-30",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Tunísia",
+   "Column8": "x",
+   "secondTeamCountryCode": "França",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-30",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Austrália",
+   "Column8": "x",
+   "secondTeamCountryCode": "Dinamarca",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-23",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Alemanha",
+   "Column8": "x",
+   "secondTeamCountryCode": "Japão",
+   "Column12": "INTER. KHALIFA"
+  },
+  {
+   "date": "2022-11-23",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Espanha",
+   "Column8": "x",
+   "secondTeamCountryCode": "Costa Rica",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-27",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Japão",
+   "Column8": "x",
+   "secondTeamCountryCode": "Costa Rica",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-11-27",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Espanha",
+   "Column8": "x",
+   "secondTeamCountryCode": "Alemanha",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-12-01",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Japão",
+   "Column8": "x",
+   "secondTeamCountryCode": "Espanha",
+   "Column12": "INTER. KHALIFA"
+  },
+  {
+   "date": "2022-12-01",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Costa Rica",
+   "Column8": "x",
+   "secondTeamCountryCode": "Alemanha",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-11-23",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Marrocos",
+   "Column8": "x",
+   "secondTeamCountryCode": "Croácia",
+   "Column12": "AL KHOR"
+  },
+  {
+   "date": "2022-11-23",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Bélgica",
+   "Column8": "x",
+   "secondTeamCountryCode": "Canadá",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-11-27",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Bélgica",
+   "Column8": "x",
+   "secondTeamCountryCode": "Marrocos",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-27",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Croácia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Canadá",
+   "Column12": "INTE. KHALIFA"
+  },
+  {
+   "date": "2022-12-01",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Croácia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Bélgica",
+   "Column12": "AL RAYYAN"
+  },
+  {
+   "date": "2022-12-01",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Canadá",
+   "Column8": "x",
+   "secondTeamCountryCode": "Marrocos",
+   "Column12": "AL THUMAMA"
+  },
+  {
+   "date": "2022-11-24",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Suiça",
+   "Column8": "x",
+   "secondTeamCountryCode": "Camarões",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-24",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Brasil",
+   "Column8": "x",
+   "secondTeamCountryCode": "Sérvia",
+   "Column12": "NAC. LUSAIL"
+  },
+  {
+   "date": "2022-11-28",
+   "Column4": "7:00",
+   "firstTeamCountryCode": "Camarões",
+   "Column8": "x",
+   "secondTeamCountryCode": "Sérvia",
+   "Column12": "AL WAKRAH"
+  },
+  {
+   "date": "2022-11-28",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Brasil",
+   "Column8": "x",
+   "secondTeamCountryCode": "Suiça",
+   "Column12": "PORTO DE DOHA"
+  },
+  {
+   "date": "2022-12-02",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Camarões",
+   "Column8": "x",
+   "secondTeamCountryCode": "Brasil",
+   "Column12": "NAC. LUSAIL"
+  },
+  {
+   "date": "2022-12-02",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Sérvia",
+   "Column8": "x",
+   "secondTeamCountryCode": "Suiça",
+   "Column12": "PORTO DE DOHA"
+  },
+  {
+   "date": "2022-11-24",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Uruguai",
+   "Column8": "x",
+   "secondTeamCountryCode": "Coreia do Sul",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-24",
+   "Column4": "13:00",
+   "firstTeamCountryCode": "Portugal",
+   "Column8": "x",
+   "secondTeamCountryCode": "Gana",
+   "Column12": "PORTO DE DOHA"
+  },
+  {
+   "date": "2022-11-28",
+   "Column4": "10:00",
+   "firstTeamCountryCode": "Coreia do Sul",
+   "Column8": "x",
+   "secondTeamCountryCode": "Gana",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-11-28",
+   "Column4": "16:00",
+   "firstTeamCountryCode": "Portugal",
+   "Column8": "x",
+   "secondTeamCountryCode": "Uruguai",
+   "Column12": "NAC. LUSAIL"
+  },
+  {
+   "date": "2022-12-02",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Coreia do Sul",
+   "Column8": "x",
+   "secondTeamCountryCode": "Portugal",
+   "Column12": "CID. EDUCAÇÃO"
+  },
+  {
+   "date": "2022-12-02",
+   "Column4": "12:00",
+   "firstTeamCountryCode": "Gana",
+   "Column8": "x",
+   "secondTeamCountryCode": "Uruguai",
+   "Column12": "AL WAKRAH"
+  }
+ ]
+ }
